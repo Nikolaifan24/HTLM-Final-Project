@@ -37,7 +37,7 @@ background-color:Igreenyellow;
 section{
     padding: 60px 20px;
     text-align: center;
-    color: bisque;
+    color: rgb(32, 31, 29);
 }
 .home{
     background: linear-gradient(to left, #333,#333 50%,#eee 75%, #333 75%);
